@@ -1,0 +1,1 @@
+Script for single motor motion sensor
